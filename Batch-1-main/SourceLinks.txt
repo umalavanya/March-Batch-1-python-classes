@@ -1,0 +1,6 @@
+https://docs.python.org/3/tutorial/index.html
+
+https://numpy.org/
+
+https://numpy.org/doc/stable/user/basics.html
+

@@ -1,0 +1,5 @@
+Hello, this is a text file.
+We can write multiple lines.
+This is Uma.
+Hope you all good.
+End of file.

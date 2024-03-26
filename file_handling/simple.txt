@@ -1,0 +1,2 @@
+& C:/Users/LIQUID/anaconda3/python.exe c:/Users/LIQUID/Desktop/Python_second/March-Batch-1-python-classes/file_handling/sample.py
+hello
